@@ -21,6 +21,8 @@ This is an interactive Excel dashboard built from Superstore sales data. It prov
 - `Cleaned_Superstore_Dataset.xlsx` – dataset used
 - Dashboard tab with interactive visuals
 
+![Dashboard_Screenshot](https://github.com/user-attachments/assets/439091eb-8c6b-4674-af30-aaf446233189)
+
 ---
 
 ## 🧑‍💻 Author
